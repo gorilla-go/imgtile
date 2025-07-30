@@ -1,4 +1,4 @@
-module imgtile
+module github.com/gorilla-go/imgtile
 
 go 1.24.1
 
